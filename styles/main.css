@@ -13,6 +13,43 @@ body {
     background-color: #fff;
 }
 
+.social_logos{
+  font-size:2em;
+  margin-right: 40px;
+  padding-left: 2px;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 1em;
+
+}
+
+.fa-linkedin-in:hover {
+  color: orange;
+}
+
+.fa-github:hover{
+  color: orange;
+}
+.fa-file-alt:hover{
+  color: orange;
+}
+
+.navbar{
+  margin-left: 220px;
+  margin-right: 280px;
+  border-radius: 30px;
+}
+
+.social_logos{
+  font-size:2em;
+  margin-right: 40px;
+  padding-left: 2px
+}
+
+
 .lead{
   margin-left: 240px
 }
